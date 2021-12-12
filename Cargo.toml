@@ -2,6 +2,15 @@
 name = "nebula-compiler"
 version = "0.1.0"
 edition = "2021"
+authors = ["Danil Andreev <danssg08@gmail.com>"]
+description = "Compiler for embedded Nebula language."
+keywords = ["compiler", "embedded", "node"]
+readme = "README.md"
+documentation = "https://github.com/point-vortex/nebula-compiler/wiki"
+repository = "https://github.com/point-vortex/nebula-compiler"
+license = "MIT"
+license-file = "LICENSE"
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
